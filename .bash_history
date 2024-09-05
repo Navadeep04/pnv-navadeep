@@ -112,3 +112,37 @@ git checkout <branch-name>
 git checkout main
 git push origin
 git push --set-upstream origin main
+git push
+git push -u origin main
+git branch
+git checkout -b main
+git push -u main origin
+git push origin master
+git push origin main
+git checkout -b main
+git add .
+git clone https://github.com/Navadeep04/pnv-navadeep.git
+git add .
+git commit -m "this is my first git file, 3rd sep 2024"
+git push -u origin main
+git push
+git push -u origin main
+git pull origin main --rebase
+git add nvdp.txt
+nano nvdp.txt
+git add nvdp.txt
+git commit -m " i am navadeep "
+git push
+git push -u origin main
+git status
+git add
+nano nvdp.txt
+git add .
+git commit -m " hello , i am navadeep "
+git push -u main origin
+git push
+git push origin main
+git push
+ipython3
+sudo apt install ipython3
+ipython3
