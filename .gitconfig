@@ -1,0 +1,8 @@
+[core]
+	editor = code --wait
+	autocrlf = true
+[user]
+	email = pnv.navadeep@gmail.com
+	name = Navadeep04
+[init]
+	defaultBranch = main

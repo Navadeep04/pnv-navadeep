@@ -1,0 +1,11 @@
+2024-09-04 07:45:08.752 [info] 
+
+
+
+
+2024-09-04 07:45:08.757 [info] Extension host agent started.
+2024-09-04 07:45:08.776 [info] Started initializing default profile extensions in extensions installation folder. file:///home/navadeep/.vscode-server/extensions
+2024-09-04 07:45:08.784 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/navadeep/.vscode-server/extensions
+2024-09-04 07:45:09.007 [info] [127.0.0.1][01cd7558][ManagementConnection] New connection established.
+2024-09-04 07:45:09.163 [info] [127.0.0.1][20f88aec][ExtensionHostConnection] New connection established.
+2024-09-04 07:45:09.209 [info] [127.0.0.1][20f88aec][ExtensionHostConnection] <1166> Launched Extension Host Process.
