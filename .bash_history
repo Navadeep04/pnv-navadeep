@@ -146,3 +146,25 @@ git push
 ipython3
 sudo apt install ipython3
 ipython3
+git commit -m "doing this gives me chills"
+git push
+git push origin main
+git add .
+git commit -m "be cool"
+git push
+git push origin push
+git add .
+git commit -m " be cool"
+git push
+git add nvdo.txt
+nano nvdp.txt
+git add nvdp.txt
+git commit -m "be cool"
+git push
+git commit "be cool"
+git add nvdp.txt
+git commit -m "be cool"
+git push origin main
+git checkout -b main
+git push
+git push
